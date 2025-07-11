@@ -1,4 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment
+.env
 venv/
-*.sqlite3
-*.pyc
+
+# VSCode or IDE config
+.vscode/
+.idea/
+
+# MacOS metadata
 .DS_Store
